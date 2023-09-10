@@ -6,6 +6,6 @@
 <!-- Introduction -->
 <h1 align="center">Hi there! 👋 I'm Sabari!</h1>
 <p align="center">
-  I'm a Computer Science Student at Christ University, Bangalore
+  I'm a Computer Science Student at Christ University, Bangalore.\n
   Into Programing and Web Development
 </p>
