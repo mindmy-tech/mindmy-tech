@@ -7,5 +7,5 @@
 <h1 align="center">Hi there! 👋 I'm Sabari!</h1>
 <p align="center">
   I'm a Computer Science Student at Christ University, Bangalore. <br>
-  Into Programing and Web Development
+  Just a curious student.
 </p>
